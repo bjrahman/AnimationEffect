@@ -1,2 +1,2 @@
-# AnimationEffect
+# SCROLL MAGIC EFFECT
  
